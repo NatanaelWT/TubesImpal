@@ -1,0 +1,1 @@
+<script src="<?= @$link[3] != "" ? "../" : "" ?>js/script.js"></script>
